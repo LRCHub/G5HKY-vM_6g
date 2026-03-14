@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "忠犬ハチ",
+  "base_artist": "ツユ",
+  "createdAt": "2026-03-14T15:10:28.954615Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忠犬ハチ",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_忠犬ハチ_ツユ.txt"
+    }
+  ]
+}
